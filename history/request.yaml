@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: RS03AXPS-SF03A-4A-NUTNRA301-streamed-nutnr_a_sample
+last_request: '2021-02-25T22:42:21.664987Z'
+response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-SF03A-4A-NUTNRA301-streamed-nutnr_a_sample/main/history/response.json
+status: pending
